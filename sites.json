@@ -137,7 +137,7 @@
   {
     "id": "os",
     "title": "OpenSubtitles",
-    "icon": "https://images2.imgbox.com/60/3c/I7sFiFdm_o.png",
+    "icon": "data:image/png;base64,https://images2.imgbox.com/60/3c/I7sFiFdm_o.png",
     "url": "https://www.opensubtitles.org/en/search/sublanguageid-eng,spa,spn,spl/imdbid-{{IMDB_ID}}",
     "noResultsMatcher": "</div><br /><div class=\"footer upfooter\">",
     "category": "subtitles"

@@ -120,15 +120,15 @@
   },
   {
     "id": "yifytorrent",
-    "title": "YIFY Torrent",
+    "title": "YIFY",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAC/klEQVQokXXS609bdRjA8V/QIGvPKVSg7TmH0ttRonFGQ6JBl/UyX4iXzWwtQkxM8EZGNt2GsHEpboO4ixURHYwQxsal63qRzXkbkZlolkm2OHVzifrClNJC1I3Fl775+qKJZEH/gE+e3/P8vuLuuhbU7hhKOIqtK4oSjqKGo6jdMcqbDmFYu441a9chhEAIQUGRkZJNzZQ2tCFsbaN4kjmqz2Txf7ZE9Zkc7ngGdzKHFplB9oWQ/XX/4jskM7ZdR1G7phDOPaM0XbjBwe+XOfTDMgM/3aJ17k/8ny9RMziL5A1iaxvFtKEB2RfCHNxBxYGzKO0nEK8MTPH+9b94IDWPM5bm4ekMkR+XufjH37x68hsM3hDuyV/RU4voyRx6ahHH4LconROI+zqP0XppmZ4rNwlfvkH/1Vv0XrlJ6PzvBIbPI/mfR+s9TdmL3ZS+0IFlWz/2vlnUzkmE9c0R7kku4Psky5Yvlwh8muXeeBpnPIN2+ByyN4gpUL+ys6kU664hlI4JhLL7GPpHi7gTCzhjaVyxNJ5TaTyJDPZ3ziH76yjZtJWCIiMFRUYKNR2lfRylcxJh3rwdZfcYSsc4rrGreOLzt+P1W3AcuUjFgbNovaex981S+d5XKHuOI+4sr6DQXkWhvQptfwo9sbAKu8au4TpxHdfYNdyTv1A58HUeW7b14xz5jpJnm1DfOoWevB2bAvWUvbSfu5z3U1hZhbH6CbSe6fw/m59rxrpzENkbRN2bWIVlfx2yL7RSmFSCrWUYNRxFSI9vxLx5O8ZHnkTbl1yNvUGsr3+AVPMM0qO1FD/1MlrPNEr7cYStdQRP7DfMwTf+89myN4h74mc8iQU88Qx6Movjwwso7eMIw0M+TIF6DA+u/9/JFW9/jKW5D8vWCLbWEeyRmXyeZY37sB/+guLaRrS9CfRUDk98Hj2ZxR6ZyUeyoWElkuJSbC3D+Twtze/iGJqjuLYR684hnMOXcQzN4Tx6CbVrCumxjUg1T68czCBT/tpBrDsG+QeiHQyMHvQ3wAAAAABJRU5ErkJggg==",
-    "url": "https://www.yify-torrent.cc/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}/p-1/all/all/",
+    "url": "https://www.yts-movie.cc/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}/p-1/all/all/",
     "noResultsMatcher": "Search 0 Result(s) for",
     "category": "pub_tracker"
   },
   {
     "id": "torrentdownloads",
-    "title": "Torrent Down",
+    "title": "Torrent Downloads",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUAMF0LNmMIP2wbSXcpU4IqXow8ZpAAf8MRhckAis4okM4lmd40l9YtoN48nNxDoeE2peRKpudMq+RaquZVsuxjsu5muO1tu/d2v+9ywPx8xvaKzPeW0vil1/+u2/2x3/88iP8IAAAAZUlEQVQY02WPOwqFAAwER8kDSxE/eP/TqWAtKLsW+pTgkmaHISTFSE6oSn0r+RhOXYGZABheo2diwLchA8YL0IFK+Z/Ws62wAKNrcCgDfQECmgdw7QDMSi1cVL906f4Ydxwc+bkTQKZNE4WywAAAAAAASUVORK5CYII=",
     "url": "https://www.torrentdownloads.pro/search/?search={{IMDB_TITLE}}+{{IMDB_YEAR}}",
     "noResultsMatcher": "total <span class=\"num\">0</span> torrents found",
@@ -179,7 +179,7 @@
     "title": "TorrentGalaxy",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADXklEQVQ4y22Ty28bVRyFz+/eeflt51U7TqipHZqWhAopKkJBsKG8hFhABX9AF4gNUmEBG5BYVEJiU4kVG1ZIqN2URiwKQgIhtRFNQEDTNMJukhIHJ47tsWdsj8cz914WEFQQ3/470tHRIdzHVvUh5lg21yrTmiI9yJ5oCQ4NtW2LlGOY4dEdEdUMkUBcZnNrCgDoUF6vlLSuqxLJncIjSpD0Cn9smOmhTiDmB2pgbEznNaHne2N7P7NcuzluJYf5qTVFAHB7Y4a3nXBstFp6TYWs0BzduTKZZqWEMJ4iRZbHg9Xq0FuO7U4vWjCz7fHqJ2zC3V44ue3T1tYJ2m44qbHd0lnLS75Z1asXJ3J+egqxt7likwAgSfVs8j+91eh+Xewdf4tpsrx3pHwhkcEuu9dwdd7IFCOD5BtDFXZsrdUZUdazhzIAMEWxhNSfM0yZdGXvjh5ar8RaRxZrTjfC9tqeFetlHudSmx+q4CAQUkAiif9AiuIkSPfgH5CidMSPn/HaPM16NkW10JwlkM6ImNsXbmsQrCtA0H0BThBW9jt+XSPGCcS51Eqya2RY11WaFMoEAIP0rKH04c3fO0v3nP61figaAyE7+31/5cfdzmftbliPUWQKAJSCNvCUztqdMPRE0AIAA/qx6chIfrPW+/XSD/WPrq7V3/vydv39Syv7HyyvO9/mk4lIlKxTBCCQwrZ7/oDZLTlo+O5vQgmHKz4+gbEXFhaihuMGt774xr5y+avm5Y2yt3zqMdYv6LkndWmcUIDqhP07e7bn0LnXU9ZcKfXo09mTF5M8elqS7PRj7Y/9ifqSYtIFoIhg8mbmdLw9/i6XWnGowtqKXTn/fXnnGp15JsFKD1PuxeOz52YTk+9wYlFFqid5uEmkun/VhUmCP8AkHwegdgetz5furl3YrAQVAoCzryajM8XI3PPHZs9PRUde5sQM/A8SSrb87vJ31fKHq+XG9ZvX/TYBwPy8xR4saemZQmzuicLRl6biqUVT08YIxP521VAIp+65P61Uq1d/2Wyt1nbUwY0bvfCfqYtFk2fzPJHKYCI7auXSMSPFOWkAICVkdxC4taa3bzflXrOuOuvrg+BfbwQAIrB0mmvxODN1EzrjIAIgJFQ4RNjvyaFty6EQSh46fwJKXa69yBEZmwAAAABJRU5ErkJggg==",
     "url": "https://torrentgalaxy.to/torrents.php?search=tt{{IMDB_ID}}",
-    "noResultsMatcher": "Sorry. No results found...",
+    "noResultsMatcher": "Sorry. No results found",
     "category": "pub_tracker"
   },
   {
@@ -196,6 +196,14 @@
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE/0lEQVRYhe2UW0wUVxzGp22aJh1rVcBVlp3dZXcWS9eNWmkftAUvXbU8WCON0sgtNdrYikapVbyUWFbA8QJGEy+gsrBXll1YlEirtdAqQr12WhNj1dRUY2mxtj3AsrNzvj4sWhESl5emD3zJl3Myycz3ze8/ZxhmWMMa1v9RBQUFz/rWL86+sWq0iDJOhFcvooEXUcuLcE8Q4TaJsidJpC6TKD1c3UkidSaKknemKHlni5LXLEoN80X5yw8qepvXvTKkAtY8M/v1uuQusnEkbmyMwc2yWHRWcAjatIBHD9QbgOMJQOOEsI8bgGMJgD8BqE0AdfKQbYmQPdNA/fNATyzuDNVOf7+7IVMZUYEmIY+9Zv3kty+ELPJR+hySNf8tkjl3EklP0ZDMGUqybOZYkjtrFNmYOooIaS+TQzkxHUeWxlD3ynH4uVQN+HhQpw7UpgG1qYHqOFDnBIQ8U9MjpnClycoKQh5rzshgzWYzazKZWIVCwTKMgmUYhlUwDGtiGNasYNg1a3LfiXppRGDLjBF4IHBAjR5w6EHtOsChB+zxoK5X0eubHnmBoWjnhhW+5hWxgKACPaQFdYXDH9mmBq1Nao14BEPR1fMt4y8WL2jFthhI2znI1TrgsQIPScgOg2vID7/XJLD3rBlhN+X1WWDvNVnDvmJlb7f4sn8RktG7NQbBHRyomwd16PoTcBgQOvGuLeLgLkvsFFL6RlF37XIS9KSRkP89IjcuIdKJpUQ6uZqEvlpL5OZPSahlE3ngye7pLOLQVaKEdEALOP+df5iADtSmJ3+654yJKLwxPTo5uI17ECgZD7lKCVqr6bMa1MOBelSgNXEIORSQHEqgTg00GEBredAavv+b91l2JtK7B2JffGq4YGLYk0ui/4KgQqgiPnzefQZQL99vRV0izgiT7/tXjnR9vmC0VJw2Bpc3K0Fd/EACdg2kY6mnrzfOeyESAM/8mKvokndyoE49aF/o44ZXj1D9pMCpyoLXGYZhFCOfJ7tTR6HDEhe+58n527WQ3Ka5EeG/9HF0yt+FcQFpjzoc6BuEgFeD4KnFYBiGKc1fXXltvRrYyQH7NIBT3+/Lh10L6p6IUF1KWkQF2pdF+wPb4iCXa4G6QdD7eMCjAjm7ocjtdj/XunlOvWQZB6mYg3xQO7BAtQqyf3Z3T/uu5KeGn82MUt5aN641WKKCbNOB1vGD4I9HsD4J992zJ37vK3vt5va5Us9nUegt4SBXxQ/AD1scumrmfXen6fCiu/7ShXftWxb+6ilc2Fm/4+0BBc7kRM3v2BQLeY8atIYfnECdHj0uE/4o1jTft8S2/F6kR3exEtIe9RPo9Y/mH6iciK5KM3qqZqL76JsIVKcgYJ91e0CBq6vGbu8pDP9K0WAA6nnAz4f3fh7w64F6HVCnBXwawMsBPhXgUwMeDnCqALsKcKiAGg5wc4BLBbiVgHMs4FQAtmigajxQrb41oMAPuQoiCyrSUcqRO3s5cn23ll4uVtNzW+NIa6GeXBAmkwu7p5G2XcnkXKmZnN+fRi4dySTtFTmkrTyHtB3MJm37s8Prw2uHwvv2wznk24PZpLVyLbnpyDpNqqbkDChwcfmYxF6LyviTRWW8UjDaKB7Nyv1mb0auNWOE0fqhzujNm2r05puNzvxUozV/kdFryTV6ywqMzjJLRLYKBUZrebnxnD1fEdGJGNawhvVf6R8Sn+8pLq1sXwAAAABJRU5ErkJggg==",
     "url": "http://www.argenteam.net/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "noResultsMatcher": "No se encontraron coincidencias",
+    "category": "subtitles"
+  },
+  {
+    "id": "planetdp",
+    "title": "YIFY Subtitles",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCklEQVQ4y52TuW8TURDG7TjG2Ht442M3XouKygVCqSIKCoSiiAqloKKMqBCFK0rEX5CaghpRIBEpIfEFPjY+Yie2YycmEakokIkogpWssffNx+4KW0IcwRQ/aY73Pr15M+MA4GTHzphx5LwzOJziLH8SHGPn2LFAH5zPBx3X/f8TMKH3bgVHUyl2ON0dHkzfnUiA2jxnNISg7XfcD03ADtyfhu1L1y4U6Nc9V6nFeWjP16QmtzI+0Pa0sO8BtTyF85on9kcBfdu7hIbgYg3+FZqXQQ3uxLTn7Zc1fHHs+YC2D8O6d0uveud+EfhW4Z5QdcbNqtIK7XKgHf4Hwr7dpR2e65e5HOo8LIwal+mX+Jt6UXDZAoOS+JJKAT8rBuNUFUAVEaj5gV2xc66Jdmu/ZIRHVDXjFjURlm1UxHu2gLElNZkWumLk5SWUJWB7hg016ZaV+5yQbuh5qWvGQGWTok2Jyv75cQlGPtijvDyHQmTR0AKro/p6qeA6SmZjTFjB5iNpgcWf/uDrRohj2TDYO3l5FDzdCD9lORnQwiArlw13WS702wFz9N7IUWRncbYpx09W5dvDtKIjp4DeKmAZhZk8/uscnL5WrlM6AiMZAWUiDJkIWMrmGUvPXrgbDn0tskBJFTYJFSyhvjAvK/+8C2dr6gMkomCb0RLbVGMTb2N/XV1GMhqf9OKI707vubLIERo7AAAAAElFTkSuQmCC",
+    "url": "https://yifysubtitles.org/movie-imdb/tt{{IMDB_ID}}",
+    "noResultsMatcher": "No results found",
     "category": "subtitles"
   }
 ]

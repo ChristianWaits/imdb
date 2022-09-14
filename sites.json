@@ -21,13 +21,6 @@
     "category": "search"
   },
   {
-    "id": "wiki_en",
-    "title": "Wikipedia (en)",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA20lEQVQ4y62TjRGDIAyFZQpHYAgncBRHYAE3YAUWcA0WYAHHgN5HGy/Yas9a7nJKfl5eHtB1r5VzLles0+tqcQPya/EGchsgxliGYYBO8d5X5ziO235d1xrH+A8hlL7va05K6cmAgDGmLMtSZG+tbQDxSVfA3kYgSQekE6DzPDd+AW4AGAXafMUHC0zPTKNDEQnqhGmaKgvdxDl3DABdtEAcAQQA2gKotfh4jFCmC2DMyvz4KATg6z2gGyxkFDkhBNb6nF4kaGul6bwX7xRANNC2n/0v7+HWi5S6B3M1U+/DW+K0AAAAAElFTkSuQmCC",
-    "url": "https://en.wikipedia.org/w/index.php?search={{IMDB_TITLE}}",
-    "category": "search"
-  },
-  {
     "id": "wiki_es",
     "title": "Wikipedia (es)",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA20lEQVQ4y62TjRGDIAyFZQpHYAgncBRHYAE3YAUWcA0WYAHHgN5HGy/Yas9a7nJKfl5eHtB1r5VzLles0+tqcQPya/EGchsgxliGYYBO8d5X5ziO235d1xrH+A8hlL7va05K6cmAgDGmLMtSZG+tbQDxSVfA3kYgSQekE6DzPDd+AW4AGAXafMUHC0zPTKNDEQnqhGmaKgvdxDl3DABdtEAcAQQA2gKotfh4jFCmC2DMyvz4KATg6z2gGyxkFDkhBNb6nF4kaGul6bwX7xRANNC2n/0v7+HWi5S6B3M1U+/DW+K0AAAAAElFTkSuQmCC",
@@ -80,7 +73,7 @@
     "category": "movie_site"
   },
   {
-    "id": "justwatch",
+    "id": "zustwatch",
     "title": "JustWatch",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABpElEQVQ4y6WTy0sCURTG/SuyVj03+Wj0zthkmqlTCpqSqVlpWqlRRBDmIoiIqFVrkdoF1aKICgqCjBYRFYRBbVr32EW0adPqa2Z8RDDEhIsL9x7u+d3znfNdhbK2ubaqTpXj15eyXg05S7gr5Ai5CnEjM1EClFOUXk4O6XCyxiIS0KO6QX4litIhldDj8bAdx1kjEmGCaIiWBSoDAt4W9Hkofq9CtJ/GyxmHiy07HN1/V1QGzIzpkVlgwLBaxEIEDwc2pCdYeFw0bvdcGBlqQ/VfgNlkQcLdrgmjgwSWTkqMO7sJPm58eL8OYDphgsdtkAYITZyfImhSazDcT/B0ymF9xYxgL4PsshUUQ0FDKHzmQ8htuGE0638D4oM6zE0SNKo0fAMJnnMcNlY7MOA3ILNkRQv5AZxv9sBsIdIS8jtmxMM0ujidGHcUJbxdFST0elqlJQhjzC4yYNu0YgX3+zakxll43TTy+y7EI0bJaZQBQS8FX0+hcQLglR/j5bYdTgeRN8Z0UcKRaCQasQEaNXKMVLLyeKRg5bD/n1au+DNV+p2/AWWoo5tG2eI6AAAAAElFTkSuQmCC",
     "url": "https://www.justwatch.com/us/search?q={{IMDB_TITLE}}",
@@ -97,7 +90,7 @@
     "id": "rarbg",
     "title": "RARBG",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABp0lEQVQ4y4WTP0jDQBTGI1KEOmcODh3M4lTEKZNL9hslYyGbcJtIcChCwC2LUxARIXOcHDLfKNziFByDgwgBEZHn9y6X2tYUD3695r2X7333Jw4RbQEPnIFLMB9gBia2dgUHP0fgkf4f7+AcjNYFTsFbpRsSUpFIVomAzDRx3o6rQYFSNTSNKgriysxDFJUR+QD7fx1AgF8OgUzREc8Md+cY59hN27mYDQqEsjJkhe7tfjdoykvhOM9Nt5KLQQHBRWsCdd2icxeP04WDaLMAipNMGftlVWM52ExZUhCVlJe6P429DQKlIYwL8kXeEXawqB3z4VNANz/MyAtSmoqMwig3/xmO81Js98mgQAF7Y18a4qQwrXjmZ3cq4SrvHTyAnQEBheKYxl5EseyK27alaZj8xq3w8jKWBCpyPEGOKyiSGRd98aVRuibXjyDQ5bK87EX4JEYLgbyAwDgwiDjlglf7gX3yS47b5Rw3xOmYDX0BJyxwDFTTtKQU30CNDTO35cna5LtPSutFXsMVxjMQji06ANfgDtyCG3Boc7v25t3bHNfkNr/9Azy0EznasaqWAAAAAElFTkSuQmCC",
-    "url": "https://rarbg.org/torrents.php?search=tt{{IMDB_ID}}",
+    "url": "https://rarbggo.org/torrents.php?search=tt{{IMDB_ID}}",
     "noResultsMatcher": ["EL_COUNT", ".lista2t tr", "GT", 1],
     "category": "pub_tracker"
   },
@@ -142,35 +135,10 @@
     "category": "pub_tracker"
   },
   {
-    "id": "filelist",
-    "title": "FileList",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEUsLS8pTFsmZHwje54shKUfotVCbnToAAAANElEQVQI12NwgQIGBwYwYMHLYAwNFYUwAhjgDFUwgyk0EMJgDmAwhegKYGANDWAhymSYMwBdTQvkUareoQAAAABJRU5ErkJggg==",
-    "url": "http://filelist.io/browse.php?search=tt{{IMDB_ID}}&cat=0&searchin=0&sort=0",
-    "noResultsMatcher": "Try again with a different search string",
-    "noAccessMatcher": "FileList :: Login",
-    "category": "priv_tracker"
-  },
-  {
     "id": "os",
-    "title": "OpenSubtitles.org (en)",
+    "title": "OpenSubtitles",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAKlBMVEUAAAAREREiIiIzMzNERERVVVV3d3eIiIiZmZmqqqrMzMzd3d3u7u7///9SrzZ+AAAARElEQVQI12NggAHeC3fBCMHAAjjuTmA6ewfIyGCYxuUgDWRsYpDmdgBJHWSQYbm7GSzVzs7gDWRw3p3AdfYqNmNw2wUAUH0dtNO4HWIAAAAASUVORK5CYII=",
-    "url": "https://www.opensubtitles.org/en/search/sublanguageid-eng/imdbid-{{IMDB_ID}}",
-    "noResultsMatcher": "</div><br /><div class=\"footer upfooter\">",
-    "category": "subtitles"
-  },
-  {
-    "id": "os_all",
-    "title": "OpenSubtitles.org",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAKlBMVEUAAAAREREiIiIzMzNERERVVVV3d3eIiIiZmZmqqqrMzMzd3d3u7u7///9SrzZ+AAAARElEQVQI12NggAHeC3fBCMHAAjjuTmA6ewfIyGCYxuUgDWRsYpDmdgBJHWSQYbm7GSzVzs7gDWRw3p3AdfYqNmNw2wUAUH0dtNO4HWIAAAAASUVORK5CYII=",
-    "url": "https://www.opensubtitles.org/en/search/imdbid-{{IMDB_ID}}",
-    "noResultsMatcher": "</div><br /><div class=\"footer upfooter\">",
-    "category": "subtitles"
-  },
-  {
-    "id": "os_ro",
-    "title": "OpenSubtitles.org (ro)",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAKlBMVEUAAAAREREiIiIzMzNERERVVVV3d3eIiIiZmZmqqqrMzMzd3d3u7u7///9SrzZ+AAAARElEQVQI12NggAHeC3fBCMHAAjjuTmA6ewfIyGCYxuUgDWRsYpDmdgBJHWSQYbm7GSzVzs7gDWRw3p3AdfYqNmNw2wUAUH0dtNO4HWIAAAAASUVORK5CYII=",
-    "url": "https://www.opensubtitles.org/en/search/sublanguageid-rum/imdbid-{{IMDB_ID}}",
+    "url": "https://www.opensubtitles.org/en/search/sublanguageid-eng,spa,spn,spl/imdbid-{{IMDB_ID}}",
     "noResultsMatcher": "</div><br /><div class=\"footer upfooter\">",
     "category": "subtitles"
   },
@@ -180,14 +148,6 @@
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAqklEQVQoz2OwYYBCdZtemzM2f4DwDJClDhOHSRfZfLP5jwS/AUXgCthstqNIwuB2oAxYwQSwsZjwD9AqoAJdICMQ7hJk6AeU0QLpv4dVGgSv2vQy2NywOYZTwQGbqww2P2324lSwxeYDIQWfGWxug61wtUlDgx4wKyZDHcmDIs0DdeQEiDdDcHpTF8SYDAy1MzYzUeAcoMh/YBAQF9QEIwsR3efBkueRoxsAObyh4yjmXBMAAAAASUVORK5CYII=",
     "url": "https://www.opensubtitles.com/en/en/search-all/q-tt{{IMDB_ID}}/hearing_impaired-hearing_impaired-1/machine_translated-machine_translated-0/trusted_sources-trusted_sources-0",
     "noResultsMatcher": "No results found",
-    "category": "subtitles"
-  },
-  {
-    "id": "oscom_ro",
-    "title": "OpenSubtitles.com (ro)",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAqklEQVQoz2OwYYBCdZtemzM2f4DwDJClDhOHSRfZfLP5jwS/AUXgCthstqNIwuB2oAxYwQSwsZjwD9AqoAJdICMQ7hJk6AeU0QLpv4dVGgSv2vQy2NywOYZTwQGbqww2P2324lSwxeYDIQWfGWxug61wtUlDgx4wKyZDHcmDIs0DdeQEiDdDcHpTF8SYDAy1MzYzUeAcoMh/YBAQF9QEIwsR3efBkueRoxsAObyh4yjmXBMAAAAASUVORK5CYII=",
-    "url": "https://www.opensubtitles.com/ro/ro/search-all/q-tt{{IMDB_ID}}/hearing_impaired-hearing_impaired-1/machine_translated-machine_translated-0/trusted_sources-trusted_sources-0",
-    "noResultsMatcher": "Nici un rezultat gasit",
     "category": "subtitles"
   },
   {
@@ -252,4 +212,3 @@
     "category": "subtitles"
   }
 ]
-

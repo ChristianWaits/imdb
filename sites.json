@@ -61,7 +61,6 @@
     "title": "FilmAffinity",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADFUlEQVQ4T42RaUhUURiGj5QYqLlUk4kpRJGBgUKSGbhkpWK5NkaWWtgPTR0XslTMUMLIHB2dZshlCvrhlJQtaJu5JIUtmruW69wU3ENHTFDueTv3ThhEP7rwcM75lve857tkuN7RXN/ioEGHnW60xlbnf9CO02qrOQDcA62Ws90s4VydXbh3zc1iLCc7m7Ox3qQ74uX9Ta/Xh5HFFruHtMMRGI2mY88lGOx8ilUeKCqQw3aLBD4enujr7cPP5WWkJqdAYmmNE8HBmJ2Zwfz8/BJZ+WTL850uqzx3haLHlQLjNPeanFqYWdC9e5zo1NQ05SmlssRkSgihoUEhlInxPE8REBDYS2irDeU7nABdLObe7sDSbCuGh8cQExWFrZZWuJqVhR9zc+ju6mRuPLDT3oG5K2AXAdrK+zrCt24D3+kMTGRh8JE5ZOe80falF4sL88jOSIeVqRmiz0RifGwMczPTOC2VsmdY0dSkJOgXF3Vkvywd+xMvwi0+FvviM2DqmwT7SDkO5TzGgfRKmPilY71PKnadV+JoXi0c427DxPcyJZ4yOCVUDBASrIIBNUigklEM4n8T5HAeW/NBwlk8VGmIBTBCWT5cRRkgQUX9hJwohhGDHC+Ae2YV7jX1o7SuB5qGPqTdbYSQjytrQHldN9wztOwCOYykxVSIM74aBKTs4HcD0crXwmzw5kMf7tV+RK76KTZEqLEi/Ff2VbxsZ3XXWX3JvwTyEVnySiwsevwBceWN2B5bgQjFSywtLaOs+j3GZxaw+4KGWS+kouu/BaKUBoG2/u8i3ikatAxMio0y9QsxF11YI8yGij1/P+Gsqk4scksoBXG+BPtYjXge4ibROzIh7uvbR7Ax4hYloQpBQByiwc6xAnhmVeFz9yjckgWbckjzn+FJUxe8ksohiVIh7U4Dquva4BBTSklI0ZrACmNVEDI+WUKtz9yixlIFJWEKan5aRS1OsYEFyVmDgq5j098i5MOLeaGe0S0IVP6eKGtiq8GagTDF2ll0+ScvCAhrpiBgylAzRhg6BvcfDDGyGca/AHNTYBXQhFjjAAAAAElFTkSuQmCC",
     "url": "https://www.filmaffinity.com/ar/search.php?stext={{IMDB_TITLE}}",
-    "noResultsMatcher": "There are no results.",
     "category": "movie_site"
   },
   {
@@ -76,6 +75,7 @@
     "title": "Pirate Bay",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBBAAbHBonKSc+QD1QUk9cXltvcW6ChIGPkY6ho6CusK2+wL3P0c7a3Nnr7er9//yio7pYAAAAeUlEQVQI12P4DwUM/68YA4ElkLGAAQhYwAxGBgZWEEMn6upyMMMuUOk4SGoCSA0zmCHAxMD0n+FYA7MjqwFQZEPFrJUzV61rZSgwjjj///V0YYZtlomMhsLBSgz/GE0iSpQToxn+ib3///91wHmG//tAdl+5zwBzBgA4/kVfY3CNqAAAAABJRU5ErkJggg==",
     "url": "https://thepiratebay10.org/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}/1/99/0",
+    "noResultsMatcher": "There are no results.",
     "category": "pub_tracker"
   },
   {
@@ -120,7 +120,7 @@
   },
   {
     "id": "torrentdownloads",
-    "title": "Torrent Down",
+    "title": "Torr.Down",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUAMF0LNmMIP2wbSXcpU4IqXow8ZpAAf8MRhckAis4okM4lmd40l9YtoN48nNxDoeE2peRKpudMq+RaquZVsuxjsu5muO1tu/d2v+9ywPx8xvaKzPeW0vil1/+u2/2x3/88iP8IAAAAZUlEQVQY02WPOwqFAAwER8kDSxE/eP/TqWAtKLsW+pTgkmaHISTFSE6oSn0r+RhOXYGZABheo2diwLchA8YL0IFK+Z/Ws62wAKNrcCgDfQECmgdw7QDMSi1cVL906f4Ydxwc+bkTQKZNE4WywAAAAAAASUVORK5CYII=",
     "url": "https://www.torrentdownloads.pro/search/?search={{IMDB_TITLE}}+{{IMDB_YEAR}}",
     "noResultsMatcher": "total <span class=\"num\">0</span> torrents found",
@@ -176,7 +176,7 @@
   },
   {
     "id": "torrentgalaxy",
-    "title": "TorrentGalaxy",
+    "title": "Torr.Galaxy",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADXklEQVQ4y22Ty28bVRyFz+/eeflt51U7TqipHZqWhAopKkJBsKG8hFhABX9AF4gNUmEBG5BYVEJiU4kVG1ZIqN2URiwKQgIhtRFNQEDTNMJukhIHJ47tsWdsj8cz914WEFQQ3/470tHRIdzHVvUh5lg21yrTmiI9yJ5oCQ4NtW2LlGOY4dEdEdUMkUBcZnNrCgDoUF6vlLSuqxLJncIjSpD0Cn9smOmhTiDmB2pgbEznNaHne2N7P7NcuzluJYf5qTVFAHB7Y4a3nXBstFp6TYWs0BzduTKZZqWEMJ4iRZbHg9Xq0FuO7U4vWjCz7fHqJ2zC3V44ue3T1tYJ2m44qbHd0lnLS75Z1asXJ3J+egqxt7likwAgSfVs8j+91eh+Xewdf4tpsrx3pHwhkcEuu9dwdd7IFCOD5BtDFXZsrdUZUdazhzIAMEWxhNSfM0yZdGXvjh5ar8RaRxZrTjfC9tqeFetlHudSmx+q4CAQUkAiif9AiuIkSPfgH5CidMSPn/HaPM16NkW10JwlkM6ImNsXbmsQrCtA0H0BThBW9jt+XSPGCcS51Eqya2RY11WaFMoEAIP0rKH04c3fO0v3nP61figaAyE7+31/5cfdzmftbliPUWQKAJSCNvCUztqdMPRE0AIAA/qx6chIfrPW+/XSD/WPrq7V3/vydv39Syv7HyyvO9/mk4lIlKxTBCCQwrZ7/oDZLTlo+O5vQgmHKz4+gbEXFhaihuMGt774xr5y+avm5Y2yt3zqMdYv6LkndWmcUIDqhP07e7bn0LnXU9ZcKfXo09mTF5M8elqS7PRj7Y/9ifqSYtIFoIhg8mbmdLw9/i6XWnGowtqKXTn/fXnnGp15JsFKD1PuxeOz52YTk+9wYlFFqid5uEmkun/VhUmCP8AkHwegdgetz5furl3YrAQVAoCzryajM8XI3PPHZs9PRUde5sQM/A8SSrb87vJ31fKHq+XG9ZvX/TYBwPy8xR4saemZQmzuicLRl6biqUVT08YIxP521VAIp+65P61Uq1d/2Wyt1nbUwY0bvfCfqYtFk2fzPJHKYCI7auXSMSPFOWkAICVkdxC4taa3bzflXrOuOuvrg+BfbwQAIrB0mmvxODN1EzrjIAIgJFQ4RNjvyaFty6EQSh46fwJKXa69yBEZmwAAAABJRU5ErkJggg==",
     "url": "https://torrentgalaxy.to/torrents.php?search=tt{{IMDB_ID}}",
     "noResultsMatcher": "Sorry. No results found",

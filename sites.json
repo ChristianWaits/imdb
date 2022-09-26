@@ -71,10 +71,9 @@
   },
   {
     "id": "pb",
-    "title": "Pirate Bay",
+    "title": "TPBay",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBBAAbHBonKSc+QD1QUk9cXltvcW6ChIGPkY6ho6CusK2+wL3P0c7a3Nnr7er9//yio7pYAAAAeUlEQVQI12P4DwUM/68YA4ElkLGAAQhYwAxGBgZWEEMn6upyMMMuUOk4SGoCSA0zmCHAxMD0n+FYA7MjqwFQZEPFrJUzV61rZSgwjjj///V0YYZtlomMhsLBSgz/GE0iSpQToxn+ib3///91wHmG//tAdl+5zwBzBgA4/kVfY3CNqAAAAABJRU5ErkJggg==",
     "url": "https://thepiratebay10.org/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}/1/99/0",
-    "noResultsMatcher": "There are no results.",
     "category": "pub_tracker"
   },
   {
@@ -95,10 +94,9 @@
   },
   {
     "id": "torlock",
-    "title": "Torlook",
+    "title": "Torrlook",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAzUExURUxpcQB8of9GAAB9o/9HAP9HAP9GAAB8oAB9ogB8oP9GAP9HAP9HAAB8oAB8oP9HAP9GADGxyYEAAAARdFJOUwBoF1Q5nnCWGjhQgSOCpJVct0oE2AAAAG5JREFUGNONjzsSAyEMxQTY2Oa79z/tFqTIMCmi8jXSg39IcQ12Db6SA2SRDJBsTgsQ7V0fKOYQy7MK5N1YAZDKUwFEWQ5QUm0AQz+KWVoFaJuwgGKedwNRgTCz6TC66pYT4ieo9qv4iL4Y49fTF16sAspZZx79AAAAAElFTkSuQmCC",
     "url": "https://gw3.torlook.info/{{IMDB_TITLE}}%20{{IMDB_YEAR}}",
-    "noResultsMatcher": "Error: Not Found",
     "category": "pub_tracker"
   },
   {
@@ -106,7 +104,6 @@
     "title": "YTS",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUgHiEbICIeIB0dKh8bMxwaQRwWUxgTYBYRbRINdA8Chw4BmgkJpgAAtgAAvwAAygD2IFtIAAAAm0lEQVQI1wGQAG//ACAEMQIiASIiACBlIRAhABACABaAEREAIhEQADoxIqtxi6IiAHkiELy03WEBALcCEG7d2SAQANYQIi3uwgEiANYgEivuQAIQANchACr7IgACAMoiICz3ECEBAJ1AIh/UIgIDAD2wIl+yABA2ABfaEDVBACSkAAGetQEiIntgAAIX38qZrMYgACACKM7ttxASm8omLNhBbCUAAAAASUVORK5CYII=",
     "url": "https://yts.mx/browse-movies/{{IMDB_TITLE}}",
-    "noResultsMatcher": "<b>0</b>",
     "category": "pub_tracker"
   },
   {
@@ -114,7 +111,6 @@
     "title": "YIFY",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAC/klEQVQokXXS609bdRjA8V/QIGvPKVSg7TmH0ttRonFGQ6JBl/UyX4iXzWwtQkxM8EZGNt2GsHEpboO4ixURHYwQxsal63qRzXkbkZlolkm2OHVzifrClNJC1I3Fl775+qKJZEH/gE+e3/P8vuLuuhbU7hhKOIqtK4oSjqKGo6jdMcqbDmFYu441a9chhEAIQUGRkZJNzZQ2tCFsbaN4kjmqz2Txf7ZE9Zkc7ngGdzKHFplB9oWQ/XX/4jskM7ZdR1G7phDOPaM0XbjBwe+XOfTDMgM/3aJ17k/8ny9RMziL5A1iaxvFtKEB2RfCHNxBxYGzKO0nEK8MTPH+9b94IDWPM5bm4ekMkR+XufjH37x68hsM3hDuyV/RU4voyRx6ahHH4LconROI+zqP0XppmZ4rNwlfvkH/1Vv0XrlJ6PzvBIbPI/mfR+s9TdmL3ZS+0IFlWz/2vlnUzkmE9c0R7kku4Psky5Yvlwh8muXeeBpnPIN2+ByyN4gpUL+ys6kU664hlI4JhLL7GPpHi7gTCzhjaVyxNJ5TaTyJDPZ3ziH76yjZtJWCIiMFRUYKNR2lfRylcxJh3rwdZfcYSsc4rrGreOLzt+P1W3AcuUjFgbNovaex981S+d5XKHuOI+4sr6DQXkWhvQptfwo9sbAKu8au4TpxHdfYNdyTv1A58HUeW7b14xz5jpJnm1DfOoWevB2bAvWUvbSfu5z3U1hZhbH6CbSe6fw/m59rxrpzENkbRN2bWIVlfx2yL7RSmFSCrWUYNRxFSI9vxLx5O8ZHnkTbl1yNvUGsr3+AVPMM0qO1FD/1MlrPNEr7cYStdQRP7DfMwTf+89myN4h74mc8iQU88Qx6Movjwwso7eMIw0M+TIF6DA+u/9/JFW9/jKW5D8vWCLbWEeyRmXyeZY37sB/+guLaRrS9CfRUDk98Hj2ZxR6ZyUeyoWElkuJSbC3D+Twtze/iGJqjuLYR684hnMOXcQzN4Tx6CbVrCumxjUg1T68czCBT/tpBrDsG+QeiHQyMHvQ3wAAAAABJRU5ErkJggg==",
     "url": "https://www.yts-movie.cc/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}/p-1/all/all/",
-    "noResultsMatcher": "Search 0 Result(s) for",
     "category": "pub_tracker"
   },
   {
@@ -130,7 +126,6 @@
     "title": "Torrentz",
     "icon": "https://images2.imgbox.com/b0/f1/yl82CbyK_o.png",
     "url": "https://torrentz2.pics/beta2/search.php?torrent-query={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
-    "noResultsMatcher": "No Results found!",
     "category": "pub_tracker"
   },
   {
@@ -183,10 +178,9 @@
   },
   {
     "id": "subdivx",
-    "title": "Subdivx",
+    "title": "Zubdivx",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACMklEQVQ4jWWT224bOQyGSc1MBnn/FwqaRU6147ODxLZGEiWhdR/i64WmLnb3QhcCCZL/SVQ7ROT22r+ncyMiPaqKulZzOiIy4DpBVOg6RdQJ0Y7U645zfKRcF6S65BLfiHmFj2umtKT8OBDSniltiHlDridEHCLimOKRyV7I1yd8/kYsC6zuCGlP+XHA6oaTf2WyBd4eKb+eCbZGZUCcc1j54uvyQvm5JaQ9qoJIP5/8F16pHp9e8fmBVNbzBSpYPZDqiktY0g8yFxyqgqowjveIjDgdyfWTS3wi2JphGBFVIeVPrO6IdmhkuR51QspHgm0RJ9yNDhEhpA+Cvc+9Dum7e07nPTGvCLalH2RWwOE6IeUPztPMiW2JeUUs74S0b9DUCVY3hPpAqP+0jeIQGZqMcofrBJ++k+oSn56J5Y1Utk1edUIqW2J5w6fnuek7rhNU7hDp52GOYNu2pD5gdfPHH0JIe2J5v8GwuuM8LUj5o5lGHJ0b6Qe5wTid9/TdffNBtAPB3gnpA5GZMNeaUz6irhErIkQ7YHVHyp9N7mEYCbbmEp/I9XPWfmQc728y/pG1H4RLWJLqCqsHRKVdkMoanx/w6ZVS/b/M0wb2qDao5eeWr8sLVr5wziEqA8HWlF/PeHtksgUn/4rVzc3/VnfEssDnb+TrE5O9MMXj3yzkeiLmDVPa3Pw/pSU+rol5xSW+keqScl1wjo/U645ojRtpkZSZ7eHmf3WCqv4n2v+P/m99ZWUF+mNjOAAAAABJRU5ErkJggg==",
     "url": "https://www.subdivx.com/index.php?accion=5&masdesc=&buscar2={{IMDB_TITLE}}%20{{IMDB_YEAR}}&oxfecha=2",
-    "noResultsMatcher": "No encontramos resultados con el buscador de subdivx. Probemos con el de Google.",
     "category": "subtitles"
   },
   {
@@ -202,7 +196,6 @@
     "title": "YIFY Subtitles",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCklEQVQ4y52TuW8TURDG7TjG2Ht442M3XouKygVCqSIKCoSiiAqloKKMqBCFK0rEX5CaghpRIBEpIfEFPjY+Yie2YycmEakokIkogpWssffNx+4KW0IcwRQ/aY73Pr15M+MA4GTHzphx5LwzOJziLH8SHGPn2LFAH5zPBx3X/f8TMKH3bgVHUyl2ON0dHkzfnUiA2jxnNISg7XfcD03ADtyfhu1L1y4U6Nc9V6nFeWjP16QmtzI+0Pa0sO8BtTyF85on9kcBfdu7hIbgYg3+FZqXQQ3uxLTn7Zc1fHHs+YC2D8O6d0uveud+EfhW4Z5QdcbNqtIK7XKgHf4Hwr7dpR2e65e5HOo8LIwal+mX+Jt6UXDZAoOS+JJKAT8rBuNUFUAVEaj5gV2xc66Jdmu/ZIRHVDXjFjURlm1UxHu2gLElNZkWumLk5SWUJWB7hg016ZaV+5yQbuh5qWvGQGWTok2Jyv75cQlGPtijvDyHQmTR0AKro/p6qeA6SmZjTFjB5iNpgcWf/uDrRohj2TDYO3l5FDzdCD9lORnQwiArlw13WS702wFz9N7IUWRncbYpx09W5dvDtKIjp4DeKmAZhZk8/uscnL5WrlM6AiMZAWUiDJkIWMrmGUvPXrgbDn0tskBJFTYJFSyhvjAvK/+8C2dr6gMkomCb0RLbVGMTb2N/XV1GMhqf9OKI707vubLIERo7AAAAAElFTkSuQmCC",
     "url": "https://yifysubtitles.org/movie-imdb/tt{{IMDB_ID}}",
-    "noResultsMatcher": "No results found",
     "category": "subtitles"
   }
 ]

@@ -71,7 +71,7 @@
   },
   {
     "id": "pb",
-    "title": "TPBay",
+    "title": "T.P.Bay ",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBBAAbHBonKSc+QD1QUk9cXltvcW6ChIGPkY6ho6CusK2+wL3P0c7a3Nnr7er9//yio7pYAAAAeUlEQVQI12P4DwUM/68YA4ElkLGAAQhYwAxGBgZWEEMn6upyMMMuUOk4SGoCSA0zmCHAxMD0n+FYA7MjqwFQZEPFrJUzV61rZSgwjjj///V0YYZtlomMhsLBSgz/GE0iSpQToxn+ib3///91wHmG//tAdl+5zwBzBgA4/kVfY3CNqAAAAABJRU5ErkJggg==",
     "url": "https://thepiratebay10.org/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}/1/99/0",
     "category": "pub_tracker"
@@ -94,7 +94,7 @@
   },
   {
     "id": "torlock",
-    "title": "Torrlook",
+    "title": "Torrlook ",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAzUExURUxpcQB8of9GAAB9o/9HAP9HAP9GAAB8oAB9ogB8oP9GAP9HAP9HAAB8oAB8oP9HAP9GADGxyYEAAAARdFJOUwBoF1Q5nnCWGjhQgSOCpJVct0oE2AAAAG5JREFUGNONjzsSAyEMxQTY2Oa79z/tFqTIMCmi8jXSg39IcQ12Db6SA2SRDJBsTgsQ7V0fKOYQy7MK5N1YAZDKUwFEWQ5QUm0AQz+KWVoFaJuwgGKedwNRgTCz6TC66pYT4ieo9qv4iL4Y49fTF16sAspZZx79AAAAAElFTkSuQmCC",
     "url": "https://gw3.torlook.info/{{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "category": "pub_tracker"
@@ -123,7 +123,7 @@
   },
   {
     "id": "yggtorrent",
-    "title": "Torrentz",
+    "title": "Torrentz ",
     "icon": "https://images2.imgbox.com/b0/f1/yl82CbyK_o.png",
     "url": "https://torrentz2.pics/beta2/search.php?torrent-query={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "category": "pub_tracker"

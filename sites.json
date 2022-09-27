@@ -132,7 +132,7 @@
     "id": "broadcasthenet",
     "title": "Bt4g",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACw0lEQVQ4y42SX0hTURzHr3fbPef8pkG99CAhRIKlIhHVU0Qv9RS9+hSEkAslt5lO29KphTolHW62f243nRNk2rQI0iQrTA1LQ5x/VloR/XmxByEszdO5ZyqtMDrw5Rx+v8/3d3/3/I4g/GNheeE4DkRPCv+7SEdMldL5Wo39UQn7pveBPLtO5DmK/LPpKDAnJbfPqSH4RrVjAU3H21RNcPEY9rxCxDOZAZ7JDbZT5JnKVLsnJCm0dEQdXEr7y6gNRDWSHEuH9tgX6IhRJMdOkJbRTLCPULA/o7hlLAfJ80dZ7gfTsiawkL2rc1ad2H5g5oPWP/MT/DOrrP3DpHEoE2yDFGwPKW58lCN5pg+w3FfGrEEguiLUjUvbZuR6UQveKQpe1q5rwsgLVkUyoDpCFaGaviwiCEmSd/Kcwigscr/0xt25FSK0Po8xrRPH+CI3W8OIXA1mgDlEFSFzVxa29mI+Gcf4Y8ZSpndC3WMsoOv3U6H5yQrYn1Jyc7iMQ6UBhK/4DkJJ2zqU+CkqactWYjzXMKRTWOZZRfWD+4Xkiu50qH+wBrYBCjfuFfJpGLyioHOo0GVnGBU574oFXiTp3Xx8YO3N42z9ACXVfYcEXNmzmxk/M7FAxMV/oaY/ace3UnXHorBMy6g6sleIV+0ZY1ojleFvgs5Ott/FpaYkdYE9oRhj3issWMPzwqk8MT6F8uBZsHRRpg1sDvXzt2EOqUmxR0MMLo22opvPHJlDrk2OIksoL16xTOZfQCa5G0wyVcQubAIXe85goysNG26lIaPrNIuNbOWR6fYw91o6492R0oAoXPCJ2OgdgGIvZdrgu9HznWn19xgrPCoUOBGY/GLC5SSb2ngAFTmugd75EfStFAybYmeid35iE6lVmJTyP8xba4/JzVsS85sBFTozSX5DLly0nWfnLJWuScuZMl/Cpf4Cmc0+ISdaHKUAAAAASUVORK5CYII=",
-    "url": "https://bt4g.org/movie/search/{{IMDB_TITLE}}",
+    "url": "https://bt4g.org/movie/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "category": "pub_tracker"
   },
   {
@@ -209,7 +209,7 @@
     "id": "cinemageddon",
     "title": "Zubtituleros",
     "icon": "https://images2.imgbox.com/0d/9c/rkhfaakh_o.png",
-    "url": "https://subtituleros.com.ar/search/q={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
+    "url": "https://subtituleros.com.ar/search?q={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "category": "subtitles"
   }
 ]

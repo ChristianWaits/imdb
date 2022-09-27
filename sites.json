@@ -209,7 +209,7 @@
     "id": "cinemageddon",
     "title": "Subtituleros",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEULCgQWFREgFAAjGwouHQEkJCI7Kg4rLSpDKwBEMzI2NzRYPA5hPgBYSSt0SQBvTxeJVgJwXDisawCmbxe9dgDWhwC2klbokADKmkP4nQD+nQD8qBPms1j8sTP9vVH7xWnOdrycAAAAn0lEQVQY0y3PURKDIAwE0IUSsWgtVakGhN7/liVgPhh4w8xm8Xupp4zSa5RBruKcszA3xC4Es9/QhTD4wB1EQMC47Nwh5guYJugqoUF665DLZczip/7jMYfI5YQGGhQ914h0QpGtwEcyRiI2WOfAYV1GifAeQ10Ivr6gIMdSPsrKhSwpvW2ZU/kCZFuT8UiSX8XJEOajNUkFrTvBc4PIf5tsD6xZsZ4aAAAAAElFTkSuQmCC",
-    "url": "https://subtituleros.com.ar/search/q={{IMDB_TITLE}}%20{IMDB_YEAR}}&searchFields%5Bchannel%5D%5B%5D=14&searchJSON=%7B"keywords"%3A"{{IMDB_TITLE}}%20{{IMDB_YEAR}}"%2C"channel"%3A"14"%7D",
+    "url": "https://subtituleros.com.ar/search/q={{IMDB_TITLE}}%20{IMDB_YEAR}}&searchFields%5Bchannel%5D%5B%5D=14&searchJSON",
     "category": "subtitles"
   }
 ]

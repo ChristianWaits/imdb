@@ -185,7 +185,7 @@
   },
   {
     "id": "subdivx",
-    "title": "Zubdivx",
+    "title": "SubXvid",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACMklEQVQ4jWWT224bOQyGSc1MBnn/FwqaRU6147ODxLZGEiWhdR/i64WmLnb3QhcCCZL/SVQ7ROT22r+ncyMiPaqKulZzOiIy4DpBVOg6RdQJ0Y7U645zfKRcF6S65BLfiHmFj2umtKT8OBDSniltiHlDridEHCLimOKRyV7I1yd8/kYsC6zuCGlP+XHA6oaTf2WyBd4eKb+eCbZGZUCcc1j54uvyQvm5JaQ9qoJIP5/8F16pHp9e8fmBVNbzBSpYPZDqiktY0g8yFxyqgqowjveIjDgdyfWTS3wi2JphGBFVIeVPrO6IdmhkuR51QspHgm0RJ9yNDhEhpA+Cvc+9Dum7e07nPTGvCLalH2RWwOE6IeUPztPMiW2JeUUs74S0b9DUCVY3hPpAqP+0jeIQGZqMcofrBJ++k+oSn56J5Y1Utk1edUIqW2J5w6fnuek7rhNU7hDp52GOYNu2pD5gdfPHH0JIe2J5v8GwuuM8LUj5o5lGHJ0b6Qe5wTid9/TdffNBtAPB3gnpA5GZMNeaUz6irhErIkQ7YHVHyp9N7mEYCbbmEp/I9XPWfmQc728y/pG1H4RLWJLqCqsHRKVdkMoanx/w6ZVS/b/M0wb2qDao5eeWr8sLVr5wziEqA8HWlF/PeHtksgUn/4rVzc3/VnfEssDnb+TrE5O9MMXj3yzkeiLmDVPa3Pw/pSU+rol5xSW+keqScl1wjo/U645ojRtpkZSZ7eHmf3WCqv4n2v+P/m99ZWUF+mNjOAAAAABJRU5ErkJggg==",
     "url": "https://www.subdivx.com/index.php?accion=5&masdesc=&buscar2={{IMDB_TITLE}}%20{{IMDB_YEAR}}&oxfecha=2",
     "category": "subtitles"
@@ -207,7 +207,7 @@
   },
   {
     "id": "cinemageddon",
-    "title": "Zubtituleros",
+    "title": "Tituleros",
     "icon": "https://images2.imgbox.com/0d/9c/rkhfaakh_o.png",
     "url": "https://subtituleros.com.ar/search?q={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "category": "subtitles"

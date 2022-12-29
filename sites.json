@@ -94,9 +94,9 @@
   },
   {
     "id": "torlock",
-    "title": "Torlook",
+    "title": "Torlock",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAzUExURUxpcQB8of9GAAB9o/9HAP9HAP9GAAB8oAB9ogB8oP9GAP9HAP9HAAB8oAB8oP9HAP9GADGxyYEAAAARdFJOUwBoF1Q5nnCWGjhQgSOCpJVct0oE2AAAAG5JREFUGNONjzsSAyEMxQTY2Oa79z/tFqTIMCmi8jXSg39IcQ12Db6SA2SRDJBsTgsQ7V0fKOYQy7MK5N1YAZDKUwFEWQ5QUm0AQz+KWVoFaJuwgGKedwNRgTCz6TC66pYT4ieo9qv4iL4Y49fTF16sAspZZx79AAAAAElFTkSuQmCC",
-    "url": "https://gw3.torlook.info/{{IMDB_TITLE}}%20{{IMDB_YEAR}}",
+    "url": "https://torlock.com/all/torrents/{{IMDB_TITLE}}%20{{IMDB_YEAR}}.html",
     "category": "pub_tracker"
   },
   {
@@ -133,7 +133,7 @@
     "id": "yggtorrent",
     "title": "Torrentz",
     "icon": "https://images2.imgbox.com/b0/f1/yl82CbyK_o.png",
-    "url": "https://torrentz2eu.in/beta2/search.php?torrent-query={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
+    "url": "https://torrentz2.pics/beta2/search.php?torrent-query={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "category": "pub_tracker"
   },
   {

@@ -50,9 +50,9 @@
   },
   {
     "id": "mubi",
-    "title": "MUBI",
+    "title": "VidSrc",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABy0lEQVQ4y32TTShEURTHD2EhIVEWFiwssLCYbChjQVFE8rUQSmYxhTQz771732iyIKRmaMZ9X8rKQrG2sxELygYbURRL+ViRr/PuPGZu5rl16/Xv3v+55/c/D8BteSEH4nIzMLle0NcCVaArrRDpL3C9Cz5PLhj0ADbCX3xrdInrTB4Bi7xzzaQ3sOwvz2ygBbp+L9vbIp8QaS8Ei14JukHCmQ2Y1CYcNMkbRDrzwVDOBZ1JQbcmssBSt53q79jzFFd1qQPNnpOm6gl/1b8rOl0JK75SQbPhxULV+JXtHBotBp1uIrQLMJUY9NfmJTmQYdDJKfa5j7qHa6uTFfiCXdxnqM06wBRN6EtTZIhLdWCoHykG6h2vqJM9kY0yCFj5UBB1sgWMDAiavecny7DyvViMLCAYWRENpCGer0Ee01I44q81VT0VIb4wITUmiTM6hhzWIRHq+YWVkGrwYhSji3BOPwPGyDSaJ4AFWv5PYNFXhPGNAgt2p4jbxjNeNJngQF2XHZVBLwUufA7S2jXpkxNnplEmvX8gmuMlaHorQqRzLqMcbBIvqy98PkxyLAIP+d3bsP9Ak75i1QeE1pdsYaoB27nmCRjKjm36DSPnHFZXIXO2AAAAAElFTkSuQmCC",
-    "url": "https://mubi.com/search?query={{IMDB_TITLE}}",
+    "url": "https://vidsrc.to/embed/movie/tt{{IMDB_ID}}",
     "category": "movie_site"
   },
   {

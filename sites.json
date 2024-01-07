@@ -132,7 +132,7 @@
     "id": "yggtorrent",
     "title": "Torrentz",
     "icon": "https://images2.imgbox.com/b0/f1/yl82CbyK_o.png",
-    "url": "https://2torrentz2eu.in/beta2/search.php?torrent-query={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
+    "url": "https://torrentz2beta.in/search.php?q={{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "category": "pub_tracker"
   },
   {

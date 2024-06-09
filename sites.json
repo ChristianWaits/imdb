@@ -110,7 +110,7 @@
   {
     "id": "yifytorrent",
     "title": "Stremio",
-    "icon": "https://web.stremio.com/a2c10e5d14a94d1a7941218441cf6f8b176c6522/images/stremio_symbol.png",
+    "icon": "https://web.stremio.com/500c80df277f2f2eaf0df1fd6c451aad905bb5cf/images/stremio_symbol.png",
     "url": "https://web.stremio.com/#/detail/movie/tt{{IMDB_ID}}",
     "category": "pub_tracker"
   },
